@@ -36,4 +36,4 @@ You can deploy this anywhere.
 **Bro just go on Youtube and watch some tutorials yourself.**
 
 ## Why I created this bot?
-The first idea was to create a mobile app that just send me reminder notifications but you know I don't know enough to make a mobile app, So I used Telegram bot that will send me reminder messages and the Telegram will show me notification. Which is just similar to the mobile app idea.
+The first idea was to create a mobile app that just send me reminder notifications but you know I don't know enough to make a mobile app, So I used Telegram bot that will send me reminder messages and the Telegram will send me notification. Which is just similar to the mobile app idea.
